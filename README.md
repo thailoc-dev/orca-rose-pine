@@ -31,7 +31,7 @@ pine keywords, gold strings, foam types, iris parameters and muted italic commen
   subtle text in the interface; in Moon, subtle text is slightly lighter. Everything else is the
   exact palette.
 - Dawn's buttons use pine instead of rose, because text on Dawn's rose is not readable enough.
-- Requires Orca 1.4.245 or later.
+- Requires Orca 1.4.246 or later.
 
 ## Develop
 
